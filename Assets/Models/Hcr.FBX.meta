@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: 38696f2e54cbabf45b633895843493de
+timeCreated: 1465734011
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body.L.jian001
+    100004: Body.R.jian001
+    100006: Body.zhong001
+    100008: Bone068
+    100010: Bone069
+    100012: Bone070
+    100014: Bone071
+    100016: Bone072
+    100018: Bone073
+    100020: Bone074
+    100022: Bone075
+    100024: Bone076
+    100026: Bone077
+    100028: Bone078
+    100030: Box035
+    100032: Box035_MeshPart0
+    100034: Box035_MeshPart1
+    100036: Box035_MeshPart2
+    100038: Box035_MeshPart3
+    100040: Box035_MeshPart4
+    100042: bozi001
+    100044: connectBone011
+    100046: connectBone012
+    100048: connectBone013
+    100050: connectBone014
+    100052: connectBone015
+    100054: connectBone016
+    100056: connectBone017
+    100058: connectBone018
+    100060: connectBone019
+    100062: connectBone020
+    100064: //RootNode
+    100066: HCRGG
+    100068: L.arm003
+    100070: L.arm004
+    100072: L.D.shang001
+    100074: L.D.xia001
+    100076: L.jian001
+    100078: L.Leg006
+    100080: L.Leg007
+    100082: L.Leg008
+    100084: L.S.shang001
+    100086: L.S.xia001
+    100088: L.S.zhong001
+    100090: L.W.shang001
+    100092: L.W.xia001
+    100094: L.W.zhong001
+    100096: L.X.shang001
+    100098: L.X.xia001
+    100100: L.X.zhong001
+    100102: L.Z.shang001
+    100104: L.Z.xia001
+    100106: L.Z.zhong001
+    100108: L.zhang001
+    100110: R.arm003
+    100112: R.arm004
+    100114: R.D.shang001
+    100116: R.D.xia001
+    100118: R.jian001
+    100120: R.Leg005
+    100122: R.Leg006
+    100124: R.Leg007
+    100126: R.Leg008
+    100128: R.S.shang001
+    100130: R.S.xia001
+    100132: R.S.zhong001
+    100134: R.W.shang001
+    100136: R.W.xia001
+    100138: R.W.zhong001
+    100140: R.X.shang001
+    100142: R.X.xia001
+    100144: R.X.zhong001
+    100146: R.Z.shang001
+    100148: R.Z.xia001
+    100150: R.Z.zhong001
+    100152: R.zhang001
+    100154: tou001
+    100156: yao.L.Leg001
+    100158: yao.R.Leg001
+    100160: yao.zhong001
+    100162: yao001
+    400000: Body
+    400002: Body.L.jian001
+    400004: Body.R.jian001
+    400006: Body.zhong001
+    400008: Bone068
+    400010: Bone069
+    400012: Bone070
+    400014: Bone071
+    400016: Bone072
+    400018: Bone073
+    400020: Bone074
+    400022: Bone075
+    400024: Bone076
+    400026: Bone077
+    400028: Bone078
+    400030: Box035
+    400032: Box035_MeshPart0
+    400034: Box035_MeshPart1
+    400036: Box035_MeshPart2
+    400038: Box035_MeshPart3
+    400040: Box035_MeshPart4
+    400042: bozi001
+    400044: connectBone011
+    400046: connectBone012
+    400048: connectBone013
+    400050: connectBone014
+    400052: connectBone015
+    400054: connectBone016
+    400056: connectBone017
+    400058: connectBone018
+    400060: connectBone019
+    400062: connectBone020
+    400064: //RootNode
+    400066: HCRGG
+    400068: L.arm003
+    400070: L.arm004
+    400072: L.D.shang001
+    400074: L.D.xia001
+    400076: L.jian001
+    400078: L.Leg006
+    400080: L.Leg007
+    400082: L.Leg008
+    400084: L.S.shang001
+    400086: L.S.xia001
+    400088: L.S.zhong001
+    400090: L.W.shang001
+    400092: L.W.xia001
+    400094: L.W.zhong001
+    400096: L.X.shang001
+    400098: L.X.xia001
+    400100: L.X.zhong001
+    400102: L.Z.shang001
+    400104: L.Z.xia001
+    400106: L.Z.zhong001
+    400108: L.zhang001
+    400110: R.arm003
+    400112: R.arm004
+    400114: R.D.shang001
+    400116: R.D.xia001
+    400118: R.jian001
+    400120: R.Leg005
+    400122: R.Leg006
+    400124: R.Leg007
+    400126: R.Leg008
+    400128: R.S.shang001
+    400130: R.S.xia001
+    400132: R.S.zhong001
+    400134: R.W.shang001
+    400136: R.W.xia001
+    400138: R.W.zhong001
+    400140: R.X.shang001
+    400142: R.X.xia001
+    400144: R.X.zhong001
+    400146: R.Z.shang001
+    400148: R.Z.xia001
+    400150: R.Z.zhong001
+    400152: R.zhang001
+    400154: tou001
+    400156: yao.L.Leg001
+    400158: yao.R.Leg001
+    400160: yao.zhong001
+    400162: yao001
+    4300000: Box035_MeshPart0
+    4300002: Box035_MeshPart1
+    4300004: Box035_MeshPart2
+    4300006: Box035_MeshPart3
+    4300008: Box035_MeshPart4
+    9500000: //RootNode
+    13700000: Box035_MeshPart0
+    13700002: Box035_MeshPart1
+    13700004: Box035_MeshPart2
+    13700006: Box035_MeshPart3
+    13700008: Box035_MeshPart4
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: yao.zhong001
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.Leg008
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Leg008
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.Leg007
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Leg007
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.Leg006
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Leg006
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Body
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Body.zhong001
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bozi001
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tou001
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.jian001
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.jian001
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.arm004
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.arm004
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.arm003
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.arm003
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.zhang001
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.zhang001
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HCRGG
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Leg005
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone071
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: connectBone013
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.D.xia001
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.D.shang001
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.S.xia001
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.S.zhong001
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.S.shang001
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.Z.xia001
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.Z.zhong001
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.Z.shang001
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.W.xia001
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.W.zhong001
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.W.shang001
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.X.xia001
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.X.zhong001
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.X.shang001
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: connectBone017
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.D.xia001
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.D.shang001
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.S.xia001
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.S.zhong001
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.S.shang001
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Z.xia001
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Z.zhong001
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Z.shang001
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.W.xia001
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.W.zhong001
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.W.shang001
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.X.xia001
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.X.zhong001
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.X.shang001
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Hcr(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Box035
+      position: {x: -.00110969972, y: .737060726, z: .00674747629}
+      rotation: {x: .000391597627, y: .707106709, z: .707106709, w: -.000391597627}
+      scale: {x: 1.5417999, y: 1.16109836, z: 2.26739407}
+      transformModified: 1
+    - name: Box035_MeshPart0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Box035_MeshPart1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Box035_MeshPart2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Box035_MeshPart3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Box035_MeshPart4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: yao.zhong001
+      position: {x: 0, y: .751868844, z: 0}
+      rotation: {x: 4.21707078e-08, y: -4.21229238e-08, z: .70710665, w: .707106888}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: yao.L.Leg001
+      position: {x: -.0101601547, y: -5.03233011e-09, z: -7.75146489e-08}
+      rotation: {x: -.120349362, y: -.219451651, z: -.465542614, w: .848897576}
+      scale: {x: 1, y: .999999821, z: .999999762}
+      transformModified: 1
+    - name: L.Leg008
+      position: {x: -.0680028275, y: 0, z: 1.93786622e-08}
+      rotation: {x: .666484714, y: .492855132, z: .116733365, w: .547051549}
+      scale: {x: 1.00000072, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: L.Leg007
+      position: {x: -.332709402, y: -4.36019917e-07, z: -2.90679942e-08}
+      rotation: {x: .00410193205, y: .00517092645, z: .0668310076, w: .997742474}
+      scale: {x: .999999285, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: L.Leg006
+      position: {x: -.329076588, y: -8.72039791e-08, z: 5.81359885e-08}
+      rotation: {x: .0346466601, y: .00316899247, z: -.518896461, w: .854128897}
+      scale: {x: 1.00000083, y: 1.00000024, z: 1.00000119}
+      transformModified: 1
+    - name: HCRGG
+      position: {x: -.035049323, y: -4.84466556e-09, z: 9.68933112e-09}
+      rotation: {x: .160942048, y: -.132888779, z: -.131820753, w: .969051898}
+      scale: {x: .999999166, y: .999999642, z: .999999225}
+      transformModified: 1
+    - name: yao.R.Leg001
+      position: {x: -.0101600001, y: -5.03233011e-09, z: -7.75146489e-08}
+      rotation: {x: .116435915, y: -.197362438, z: .494602054, w: .838367224}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: R.Leg008
+      position: {x: -.0738769248, y: 0, z: 1.93786622e-08}
+      rotation: {x: -.657762289, y: .49739635, z: -.153540522, w: .544399679}
+      scale: {x: .999999225, y: .999999583, z: 1.00000012}
+      transformModified: 1
+    - name: R.Leg007
+      position: {x: -.332709581, y: 4.7477721e-07, z: -2.90679942e-08}
+      rotation: {x: .0179905295, y: .00363114476, z: -.0695549399, w: .997409344}
+      scale: {x: 1.00000167, y: 1.00000083, z: .999999702}
+      transformModified: 1
+    - name: R.Leg006
+      position: {x: -.329074711, y: 5.69248186e-08, z: 8.72039791e-08}
+      rotation: {x: .174414501, y: .0629656911, z: -.526452839, w: -.829736352}
+      scale: {x: .999999046, y: .999998212, z: 1.00000012}
+      transformModified: 1
+    - name: R.Leg005
+      position: {x: -.0365954451, y: -2.42233278e-09, z: 1.93786622e-08}
+      rotation: {x: .356304765, y: .171998203, z: -.0455921143, w: -.917270422}
+      scale: {x: 1.00000072, y: .999999642, z: 1.00000095}
+      transformModified: 1
+    - name: yao001
+      position: {x: -.0101600001, y: 1.02350173e-09, z: -9.24046623e-15}
+      rotation: {x: -5.84213922e-08, y: -1.17242444e-05, z: -.999999762, w: .000702470541}
+      scale: {x: 1.50640523, y: 1.00000072, z: 1.00000012}
+      transformModified: 1
+    - name: Body
+      position: {x: -.0942624658, y: -1.94922094e-07, z: -7.75146418e-08}
+      rotation: {x: 7.54430075e-05, y: -.000349107868, z: -.000353660056, w: .999999881}
+      scale: {x: .663832784, y: .999999166, z: 1.00000095}
+      transformModified: 1
+    - name: Body.zhong001
+      position: {x: -.290426701, y: -8.39439017e-05, z: .000202778363}
+      rotation: {x: -3.5533194e-06, y: .000349280745, z: .000642062572, w: .999999762}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Body.L.jian001
+      position: {x: -.0101603102, y: -4.84466556e-09, z: -7.75146916e-08}
+      rotation: {x: -1.26107807e-05, y: 1.27146759e-05, z: .713201582, w: .700959027}
+      scale: {x: 1.00005579, y: .999942183, z: 1.00000167}
+      transformModified: 1
+    - name: L.jian001
+      position: {x: -.0292071402, y: 0, z: -2.40252127e-13}
+      rotation: {x: -.379718006, y: -.0290837586, z: .0959215909, w: .919656217}
+      scale: {x: .999293566, y: .998805285, z: 1.00190437}
+      transformModified: 1
+    - name: L.arm004
+      position: {x: -.119736873, y: 0, z: 0}
+      rotation: {x: -.382852733, y: .059990909, z: -.0339100733, w: .921235561}
+      scale: {x: .999990821, y: .999948263, z: 1.00007188}
+      transformModified: 1
+    - name: L.arm003
+      position: {x: -.21410878, y: -5.18530612e-07, z: -7.75146489e-08}
+      rotation: {x: .000973654678, y: .0756232888, z: .00895440113, w: .997095764}
+      scale: {x: .999864697, y: 1.00004959, z: 1.00008702}
+      transformModified: 1
+    - name: L.zhang001
+      position: {x: -.209168822, y: 3.57294105e-08, z: 0}
+      rotation: {x: -.0650188774, y: .00142209418, z: -.00267694332, w: .997879446}
+      scale: {x: 1.00000203, y: .999998808, z: .999999046}
+      transformModified: 1
+    - name: connectBone012
+      position: {x: -.0101600001, y: 0, z: 7.75146489e-08}
+      rotation: {x: 2.35886564e-08, y: 0, z: -.0641278103, w: .997941732}
+      scale: {x: .999974787, y: 1.00002515, z: 1.00000012}
+      transformModified: 1
+    - name: L.W.xia001
+      position: {x: -.0783772692, y: 1.93786622e-08, z: -1.55029298e-07}
+      rotation: {x: -8.12578946e-08, y: -1.11758709e-08, z: .12387047, w: .992298424}
+      scale: {x: 1.00020373, y: .999796212, z: .999999881}
+      transformModified: 1
+    - name: L.W.zhong001
+      position: {x: -.0291021001, y: -1.74407958e-07, z: -7.75146489e-08}
+      rotation: {x: 2.81725026e-08, y: 2.42143834e-08, z: -.00346472417, w: .99999404}
+      scale: {x: .999442875, y: .998774052, z: 1.00179005}
+      transformModified: 1
+    - name: L.W.shang001
+      position: {x: -.0240306258, y: -9.68933112e-09, z: 0}
+      rotation: {x: -.00159019674, y: -.00349340169, z: .0150047336, w: .999880135}
+      scale: {x: .99991262, y: 1.00009286, z: .999994874}
+      transformModified: 1
+    - name: Bone075
+      position: {x: -.0189269073, y: 1.93786622e-08, z: 7.75146489e-08}
+      rotation: {x: -1.32247777e-07, y: -1.41561003e-07, z: 2.60770268e-08, w: 1}
+      scale: {x: .999999762, y: 1.00000072, z: .999999702}
+      transformModified: 1
+    - name: connectBone013
+      position: {x: -.0101600001, y: 0, z: 7.75146489e-08}
+      rotation: {x: .00232420443, y: -.0396759398, z: .368524522, w: .928768039}
+      scale: {x: 1.00010002, y: .999900222, z: 1.00000072}
+      transformModified: 1
+    - name: L.D.xia001
+      position: {x: -.0525061376, y: -1.55029298e-07, z: 1.55029298e-07}
+      rotation: {x: -.0314222649, y: -.00524087111, z: -.0306278653, w: .999023139}
+      scale: {x: 1.0013299, y: .998653829, z: 1.00001669}
+      transformModified: 1
+    - name: L.D.shang001
+      position: {x: -.0368641838, y: 0, z: -7.75146489e-08}
+      rotation: {x: -.0110253971, y: -.0262905154, z: -.0113844918, w: .999528766}
+      scale: {x: .999698281, y: .999233365, z: 1.00107002}
+      transformModified: 1
+    - name: Bone072
+      position: {x: -.0267515071, y: 1.93786622e-08, z: 0}
+      rotation: {x: 3.72528852e-09, y: -1.49011541e-08, z: -.0985364169, w: .99513346}
+      scale: {x: 1.00118244, y: .998741031, z: 1.00008464}
+      transformModified: 1
+    - name: connectBone014
+      position: {x: -.0101600001, y: 0, z: 7.75146489e-08}
+      rotation: {x: -5.41331246e-08, y: -7.4505806e-09, z: .193917215, w: .981017888}
+      scale: {x: 1.00007093, y: .99992907, z: 1}
+      transformModified: 1
+    - name: L.S.xia001
+      position: {x: -.0760727599, y: -3.87573245e-08, z: 0}
+      rotation: {x: -.00122853555, y: -.0108567663, z: -.0666925982, w: .997713804}
+      scale: {x: 1.00059748, y: .999404311, z: 1.00000048}
+      transformModified: 1
+    - name: L.S.zhong001
+      position: {x: -.0318049602, y: 2.90679935e-07, z: -7.75146489e-08}
+      rotation: {x: .00229074596, y: .0169977341, z: -.00686566811, w: .999829412}
+      scale: {x: .999262393, y: .998813629, z: 1.00192881}
+      transformModified: 1
+    - name: L.S.shang001
+      position: {x: -.0249046814, y: -1.93786622e-08, z: 7.75146489e-08}
+      rotation: {x: 2.23168087e-07, y: -9.40635445e-08, z: -.00293434295, w: .999995768}
+      scale: {x: 1.00002849, y: .99997133, z: 1.00000012}
+      transformModified: 1
+    - name: Bone073
+      position: {x: -.0189608578, y: -2.90679942e-08, z: -7.75146489e-08}
+      rotation: {x: -9.09203095e-08, y: -5.02913906e-08, z: -4.84287455e-08, w: 1}
+      scale: {x: .999999881, y: 1, z: .999999881}
+      transformModified: 1
+    - name: connectBone015
+      position: {x: -.0101600001, y: 0, z: 7.75146489e-08}
+      rotation: {x: -6.4028427e-09, y: -1.86264515e-09, z: .0628122315, w: .998025417}
+      scale: {x: 1.00002491, y: .999975502, z: 1.0000006}
+      transformModified: 1
+    - name: L.Z.xia001
+      position: {x: -.0773036554, y: -9.68933112e-09, z: 0}
+      rotation: {x: 3.60887498e-08, y: -3.7252903e-09, z: -.0069584474, w: .99997586}
+      scale: {x: 1.00001168, y: .999988139, z: .99999994}
+      transformModified: 1
+    - name: L.Z.zhong001
+      position: {x: -.0352978446, y: -4.36019896e-08, z: -7.75146489e-08}
+      rotation: {x: .00524962321, y: .0383138135, z: .012920497, w: .999168456}
+      scale: {x: .998893499, y: .99901253, z: 1.00210083}
+      transformModified: 1
+    - name: L.Z.shang001
+      position: {x: -.0276476145, y: 6.78253187e-08, z: -2.32543954e-07}
+      rotation: {x: 2.39990158e-07, y: -6.61238957e-08, z: -.0178089198, w: .999841452}
+      scale: {x: 1.00018501, y: .999815226, z: .999999404}
+      transformModified: 1
+    - name: Bone074
+      position: {x: -.0207121465, y: -1.93786622e-08, z: 7.75146489e-08}
+      rotation: {x: -2.07161037e-07, y: 3.25962857e-09, z: -5.21540571e-08, w: 1}
+      scale: {x: .999999702, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: connectBone016
+      position: {x: -.0101600001, y: 0, z: 7.75146489e-08}
+      rotation: {x: -6.39702193e-08, y: -7.4505806e-09, z: -.177348793, w: .984148085}
+      scale: {x: .999934196, y: 1.00006616, z: 1}
+      transformModified: 1
+    - name: L.X.xia001
+      position: {x: -.0781551152, y: -3.87573245e-08, z: 7.75146489e-08}
+      rotation: {x: -1.25728548e-08, y: -1.25728548e-08, z: .204298556, w: .978908718}
+      scale: {x: 1.00080872, y: .999193668, z: 1.00000107}
+      transformModified: 1
+    - name: L.X.zhong001
+      position: {x: -.0229976662, y: 1.93786622e-08, z: 0}
+      rotation: {x: -.00530253677, y: -.0403472595, z: .000133126916, w: .999171615}
+      scale: {x: 1.00031531, y: .998453856, z: 1.00123334}
+      transformModified: 1
+    - name: L.X.shang001
+      position: {x: -.0218510311, y: -2.90679942e-08, z: 7.75146489e-08}
+      rotation: {x: -1.52620444e-07, y: -1.11758682e-08, z: -.0101867765, w: .999948204}
+      scale: {x: 1.00004923, y: .999949515, z: .999999464}
+      transformModified: 1
+    - name: Bone069
+      position: {x: -.0159185641, y: 9.68933112e-09, z: 0}
+      rotation: {x: 2.99769312e-08, y: -7.07804801e-08, z: 4.47034623e-08, w: 1}
+      scale: {x: .999999583, y: 1.0000006, z: 1.0000006}
+      transformModified: 1
+    - name: Body.R.jian001
+      position: {x: -.0101603102, y: -4.84466556e-09, z: -7.75146916e-08}
+      rotation: {x: 1.25646684e-05, y: 1.29763539e-05, z: .715921581, w: -.698180735}
+      scale: {x: .999929607, y: 1.00006843, z: 1.00000167}
+      transformModified: 1
+    - name: R.jian001
+      position: {x: -.0265152846, y: -7.75146489e-08, z: -9.24046674e-14}
+      rotation: {x: .380082339, y: -.0274892859, z: -.0910648853, w: .920048356}
+      scale: {x: 1.00066578, y: .998054981, z: 1.00128067}
+      transformModified: 1
+    - name: R.arm004
+      position: {x: -.124309935, y: -7.75146489e-08, z: -3.10058596e-07}
+      rotation: {x: .0325926244, y: -.921484351, z: -.382728755, w: .0576460138}
+      scale: {x: -1.00001073, y: -1.00006509, z: -.99993664}
+      transformModified: 1
+    - name: R.arm003
+      position: {x: -.214108661, y: -5.18076433e-07, z: -7.75146489e-08}
+      rotation: {x: .000973624527, y: .075623326, z: .00895441696, w: .997095823}
+      scale: {x: 1.00007868, y: 1.00005448, z: .999868572}
+      transformModified: 1
+    - name: R.zhang001
+      position: {x: -.209168792, y: 3.57294105e-08, z: 7.75146489e-08}
+      rotation: {x: -.0650190562, y: .0014220624, z: -.00267675216, w: .997879446}
+      scale: {x: 1.00001836, y: .998707116, z: 1.00127518}
+      transformModified: 1
+    - name: connectBone011
+      position: {x: -.0101598836, y: 9.68933112e-09, z: -7.75146489e-08}
+      rotation: {x: -1.28056865e-09, y: -3.72529065e-08, z: -.0641277656, w: .997941732}
+      scale: {x: .999996364, y: 1.00000381, z: .999999404}
+      transformModified: 1
+    - name: R.W.xia001
+      position: {x: -.0783771947, y: 0, z: 7.75146489e-08}
+      rotation: {x: 1.47847468e-08, y: 7.45058149e-09, z: .12387044, w: .992298424}
+      scale: {x: .999716222, y: 1.00028479, z: 1.00000048}
+      transformModified: 1
+    - name: R.W.zhong001
+      position: {x: -.0291018672, y: -2.13165279e-07, z: -7.75146489e-08}
+      rotation: {x: 3.16649604e-08, y: -7.8231075e-08, z: -.00346479658, w: .99999404}
+      scale: {x: .999936879, y: .999872804, z: 1.00019276}
+      transformModified: 1
+    - name: R.W.shang001
+      position: {x: -.024030393, y: 2.90679942e-08, z: 0}
+      rotation: {x: 1.26426997e-07, y: -3.72528888e-08, z: -.013012128, w: .999915421}
+      scale: {x: 1.00003004, y: .999968648, z: .999998271}
+      transformModified: 1
+    - name: Bone068
+      position: {x: -.0189267527, y: 1.45339971e-08, z: 1.55029298e-07}
+      rotation: {x: -9.05710635e-08, y: -1.49011523e-08, z: 1.11758647e-08, w: 1}
+      scale: {x: 1.00000012, y: 1.00000048, z: 1.00000083}
+      transformModified: 1
+    - name: connectBone017
+      position: {x: -.0101598836, y: 9.68933112e-09, z: -7.75146489e-08}
+      rotation: {x: .00223542261, y: -.039554771, z: .368538052, w: .928768098}
+      scale: {x: 1.00001574, y: .999987125, z: 1.00000012}
+      transformModified: 1
+    - name: R.D.xia001
+      position: {x: -.0525060967, y: -1.16271977e-07, z: 2.32543954e-07}
+      rotation: {x: -.0316707194, y: -.00529059581, z: -.0313428752, w: .998992801}
+      scale: {x: .998146951, y: 1.00188065, z: .99997431}
+      transformModified: 1
+    - name: R.D.shang001
+      position: {x: -.0368641429, y: 3.87573245e-08, z: 0}
+      rotation: {x: -.011025561, y: -.0262904223, z: -.0113845356, w: .999528766}
+      scale: {x: .999403238, y: 1.00027061, z: 1.00032604}
+      transformModified: 1
+    - name: Bone076
+      position: {x: -.0267515462, y: -3.87573245e-08, z: 2.32543954e-07}
+      rotation: {x: 5.96046235e-08, y: -5.58793332e-08, z: -.0985364094, w: .995133519}
+      scale: {x: .99929291, y: 1.00005043, z: 1.00066185}
+      transformModified: 1
+    - name: connectBone018
+      position: {x: -.0101598836, y: 9.68933112e-09, z: -7.75146489e-08}
+      rotation: {x: 2.93366611e-08, y: 7.4505806e-09, z: .193917081, w: .981018007}
+      scale: {x: 1.00001049, y: .999990761, z: 1}
+      transformModified: 1
+    - name: R.S.xia001
+      position: {x: -.0760728046, y: -3.87573245e-08, z: -7.75146489e-08}
+      rotation: {x: -.00134114863, y: -.0109469611, z: -.0661278367, w: .997750223}
+      scale: {x: .99916774, y: 1.00083303, z: 1.00000095}
+      transformModified: 1
+    - name: R.S.zhong001
+      position: {x: -.0318050347, y: 3.19747926e-07, z: 0}
+      rotation: {x: .00229071453, y: .0169975944, z: -.00686575938, w: .999829352}
+      scale: {x: 1.00004423, y: .999936819, z: 1.00002027}
+      transformModified: 1
+    - name: R.S.shang001
+      position: {x: -.0249045268, y: -2.90679942e-08, z: -2.32543954e-07}
+      rotation: {x: -.00221676542, y: -.00288947579, z: .0211160332, w: .999770403}
+      scale: {x: .999918401, y: 1.00000572, z: 1.00007546}
+      transformModified: 1
+    - name: Bone077
+      position: {x: -.0189610124, y: 1.45339971e-08, z: -3.10058596e-07}
+      rotation: {x: -7.68340946e-09, y: -8.19563652e-08, z: 7.45057882e-09, w: 1}
+      scale: {x: .999999642, y: 1.00000048, z: .999999702}
+      transformModified: 1
+    - name: connectBone019
+      position: {x: -.0101598836, y: 9.68933112e-09, z: -7.75146489e-08}
+      rotation: {x: 2.38651428e-08, y: -1.11758718e-08, z: .0628122538, w: .998025417}
+      scale: {x: 1.00000322, y: .999996603, z: .999999523}
+      transformModified: 1
+    - name: R.Z.xia001
+      position: {x: -.0773036107, y: 4.84466556e-09, z: 1.55029298e-07}
+      rotation: {x: 5.82076645e-08, y: 0, z: -.00695844414, w: .999975801}
+      scale: {x: .999983609, y: 1.00001621, z: .999999642}
+      transformModified: 1
+    - name: R.Z.zhong001
+      position: {x: -.0352977663, y: -1.45339971e-08, z: -1.55029298e-07}
+      rotation: {x: .00524965953, y: .038313739, z: .0129204625, w: .999168456}
+      scale: {x: 1.00014997, y: 1.00004172, z: .999811649}
+      transformModified: 1
+    - name: R.Z.shang001
+      position: {x: -.0276473816, y: 1.93786622e-08, z: 7.75146489e-08}
+      rotation: {x: -.00315657142, y: -.00263932277, z: .00530668022, w: .999977469}
+      scale: {x: .999963343, y: .999939144, z: 1.00009739}
+      transformModified: 1
+    - name: Bone078
+      position: {x: -.0207123011, y: -1.93786622e-08, z: 1.55029298e-07}
+      rotation: {x: -1.77067648e-07, y: 8.94069387e-08, z: 7.45057775e-08, w: 1}
+      scale: {x: .999999702, y: .999999821, z: 1.00000036}
+      transformModified: 1
+    - name: connectBone020
+      position: {x: -.0101598836, y: 9.68933112e-09, z: -7.75146489e-08}
+      rotation: {x: -6.51925802e-09, y: -7.4505806e-09, z: -.177348748, w: .984148085}
+      scale: {x: 1.00005984, y: .999940276, z: .999999642}
+      transformModified: 1
+    - name: R.X.xia001
+      position: {x: -.0781550705, y: 0, z: -1.55029298e-07}
+      rotation: {x: 3.44589353e-08, y: 1.86264515e-08, z: .204298362, w: .978908718}
+      scale: {x: .998873711, y: 1.00112844, z: 1.00000095}
+      transformModified: 1
+    - name: R.X.zhong001
+      position: {x: -.0229975879, y: 9.68933112e-09, z: 7.75146489e-08}
+      rotation: {x: -.00529205287, y: -.0402855724, z: .000134976857, w: .999174237}
+      scale: {x: .999540746, y: .999602556, z: 1.00086069}
+      transformModified: 1
+    - name: R.X.shang001
+      position: {x: -.0218510684, y: -9.68933112e-09, z: 0}
+      rotation: {x: .00170907995, y: -.00285918894, z: .0106311822, w: .999938011}
+      scale: {x: .999982655, y: 1.00003791, z: .999979198}
+      transformModified: 1
+    - name: Bone070
+      position: {x: -.0159184858, y: 0, z: 7.75146489e-08}
+      rotation: {x: 1.48080275e-07, y: 7.68341035e-09, z: -4.09781897e-08, w: 1}
+      scale: {x: .999999046, y: .999999583, z: .999999583}
+      transformModified: 1
+    - name: bozi001
+      position: {x: -.0101602329, y: 2.27093699e-09, z: 0}
+      rotation: {x: -3.08606104e-07, y: -4.29885404e-07, z: .00036561492, w: 1}
+      scale: {x: .999991894, y: 1.0000062, z: 1.00000167}
+      transformModified: 1
+    - name: tou001
+      position: {x: -.0536674224, y: -1.42312047e-08, z: 3.69618649e-14}
+      rotation: {x: 1.19422402e-05, y: 2.83256668e-07, z: .00122779608, w: .999999285}
+      scale: {x: .999991953, y: 1.00000644, z: .999999821}
+      transformModified: 1
+    - name: Bone071
+      position: {x: -.194026455, y: 4.84466556e-09, z: -1.55029326e-07}
+      rotation: {x: 7.20730782e-07, y: 1.12340768e-08, z: 2.98010097e-08, w: 1}
+      scale: {x: 1.00000048, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
